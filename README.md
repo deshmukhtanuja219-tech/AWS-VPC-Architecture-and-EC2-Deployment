@@ -61,3 +61,7 @@ Successfully deployed application on EC2 within a custome VPC and Load Balancer 
 My Internet Gateway
 ![My Internet Gateway](https://github.com/deshmukhtanuja219-tech/AWS-VPC-Architecture-and-EC2-Deployment/blob/main/Screenshot%202026-06-28%20211951.png)
 
+My Route Table
+![My Route Table](https://github.com/deshmukhtanuja219-tech/AWS-VPC-Architecture-and-EC2-Deployment/blob/main/Screenshot%202026-06-28%20212414.png)
+
+
