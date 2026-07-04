@@ -50,3 +50,8 @@ Tested Application using Load Balancer DNS
 
 OUTPUT
 Successfully deployed application on EC2 within a custome VPC and Load Balancer distribute traffic in healthy instances and perform health check.
+
+# SCREENSHOTS
+## VPC
+
+
