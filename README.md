@@ -55,5 +55,6 @@ Successfully deployed application on EC2 within a custome VPC and Load Balancer 
 ## VPC
 ![vpc](https://github.com/deshmukhtanuja219-tech/AWS-VPC-Architecture-and-EC2-Deployment/blob/main/Screenshot%202026-06-28%20211138.png)
 
+## Internet Gateway
 
 
